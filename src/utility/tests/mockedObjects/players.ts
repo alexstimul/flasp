@@ -1,4 +1,4 @@
-[
+export const players = [
     {
         "id": "40aaa8c8-e7e4-4676-a7d0-6a6651fac0bf",
         "login": "test_1",
